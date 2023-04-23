@@ -6,7 +6,6 @@ Enthusiastic about software development
 
 I'm an IT Student with experience in software development.
 
-*   🌍  I'm based in Europe.
 *   🧠  I'm learning Making games with C++. I need to do this as a project at my university.
 *   🤝  I'm open to collaborating on varied software project, currently more specifically something to do with React or Node.
 *   ⚡  I am learning judo too!
