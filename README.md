@@ -7,7 +7,7 @@ Enthusiastic about software development
 I'm an IT Student with experience in software development.
 
 *   🧠  I'm learning to develop games with C++ as side project.
-*   *   🖥️  See my portfolio at [this website](http://stirring-pavlova-4f358a.netlify.app/)
+*   🖥️  See my portfolio at [this website](http://stirring-pavlova-4f358a.netlify.app/)
 *   🤝  I'm open to collaborating on varied software project, currently more specifically something to do with React or Node.
 *   ⚡  I am learning judo too!
 
