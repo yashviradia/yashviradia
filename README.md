@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/yashviradia" target="blank"><img src="https://img.shields.io/twitter/follow/yashviradia?logo=twitter&style=for-the-badge" alt="yashviradia" /></a> </p>
 
-- 🔭 I’m currently working on [ASCII-art](https://github.com/yashviradia/ascii-art)
-
 - 👨‍💻 All of my projects are available at [https://stirring-pavlova-4f358a.netlify.app/](https://stirring-pavlova-4f358a.netlify.app/)
 
 - 📝 I regularly write articles on [https://yashviradia.hashnode.dev/](https://yashviradia.hashnode.dev/)
