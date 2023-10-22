@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashviradia" alt="yashviradia" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/yashviradia" target="blank"><img src="https://img.shields.io/twitter/follow/yashviradia?logo=twitter&style=for-the-badge" alt="yashviradia" /></a> </p>
+<p align="left"> <a href="https://twitter.com/theyashviradia" target="blank"><img src="https://img.shields.io/twitter/follow/theyashviradia?logo=twitter&style=for-the-badge" alt="theyashviradia" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://stirring-pavlova-4f358a.netlify.app/](https://stirring-pavlova-4f358a.netlify.app/)
 
