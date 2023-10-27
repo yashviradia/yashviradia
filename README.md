@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/theyashviradia" target="blank"><img src="https://img.shields.io/twitter/follow/theyashviradia?logo=twitter&style=for-the-badge" alt="theyashviradia" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://stirring-pavlova-4f358a.netlify.app/](https://stirring-pavlova-4f358a.netlify.app/)
+- 👨‍💻 All of my projects are available at [](https://stirring-pavlova-4f358a.netlify.app/)
 
 - 📝 I regularly write articles on [https://yashviradia.hashnode.dev/](https://yashviradia.hashnode.dev/)
 
